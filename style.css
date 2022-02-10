@@ -1,0 +1,78 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color:white;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    padding-left: 20px;
+    margin-bottom: 200px;
+}
+h2{
+    color: tomato;
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+h1{
+    font-size: 100px;
+    margin: 0;
+}
+#girls-text{
+    color: tomato;
+}
+h4{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+    color: tomato;
+}
+.para{
+    text-align: justify;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.button:hover{
+    box-shadow: 1px 1px 30px tomato;
+}
+.block{
+    width: 50%;
+}
+.block2{
+    
+    box-shadow:1px 1px 30px whitesmoke;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px;
+    align-content: center;
+}
+.orsha{
+    width: 75%;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+footer{
+    background-color: tomato;
+    color: white;
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.pera2{
+    color: white;
+    font-size: 20px;
+}
